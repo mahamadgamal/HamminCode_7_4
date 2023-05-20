@@ -1,5 +1,6 @@
 # HamminCode_7_4
 Encode, Decode,Detection and Correction error  Hamming 7/4 Method using Python
+
 from typing import List
 # Function to calculate the parity bits for a 4-bit message
 def calculate_parity_bits(message):
